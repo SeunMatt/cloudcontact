@@ -1,10 +1,15 @@
 
-#ARCHIVED REPO.
+ARCHIVED REPO.
+===============
+
 The active version is [cloudcontact-maven](https://github.com/SeunMatt/cloudcontact-maven)
+------------------------------------------------------------------------------------------
 
-#Cloud Contact
+Cloud Contact
+==============
 
-#A Complete Web App developed with SparkJava, Mongodb and Thinbus SRP Authentication Protocol
+A Complete Web App developed with SparkJava, Mongodb and Thinbus SRP Authentication Protocol
+-------------------------------------------------------------------------------------------
 
 Check it out! It's hosted on heroku [here]( https://cloud-contact.herokuapp.com/ ) 
 
